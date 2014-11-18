@@ -15,3 +15,8 @@ C:\Users\luuk\Documents\Projects\KingdomHearts\2DPlatformer.git\Saxion 2D Platfo
 C:\Users\luuk\Documents\Projects\KingdomHearts\2DPlatformer.git\Saxion 2D Platformer\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.csprojResolveAssemblyReference.cache
 C:\Users\luuk\Documents\Projects\KingdomHearts\2DPlatformer.git\Saxion 2D Platformer\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.exe
 C:\Users\luuk\Documents\Projects\KingdomHearts\2DPlatformer.git\Saxion 2D Platformer\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.pdb
+C:\Users\luuk\Dropbox\Project 2D platformer\2D-Platformer-Repository\Saxion 2D Platformer\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.csprojResolveAssemblyReference.cache
+C:\Users\luuk\Dropbox\Project 2D platformer\2D-Platformer-Repository\Saxion 2D Platformer\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.exe
+C:\Users\luuk\Dropbox\Project 2D platformer\2D-Platformer-Repository\Saxion 2D Platformer\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.pdb
+C:\Users\luuk\Dropbox\Project 2D platformer\2D-Platformer-Repository\Saxion 2D Platformer\sourcefiles\GXPEngine\bin\Debug\GXPEngine.exe
+C:\Users\luuk\Dropbox\Project 2D platformer\2D-Platformer-Repository\Saxion 2D Platformer\sourcefiles\GXPEngine\bin\Debug\GXPEngine.pdb
